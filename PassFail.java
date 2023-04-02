@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class PassFail {
+    //hello
     Scanner scanner = new Scanner(System.in);
     //Student pass if he/she gets more than 35 marks in each subject.
 

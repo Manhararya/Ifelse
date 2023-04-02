@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Vote {
 
     public void eligibleForVote() {
+        //hello
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter your age: ");
 

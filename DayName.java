@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class DayName {
     public static void main(String[] args) {
+        //hello
         Scanner input = new Scanner(System.in);
         System.out.println("Number enter between 1 to 7: ");
         int number = input.nextInt();
